@@ -1,0 +1,40 @@
+Maneiras de representar as cores no CSS:
+
+1. RGB
+
+0 = ausencia
+255 = máximo
+
+cores:
+vermelho
+azul
+verde
+
+ex.: rgb(255,255,255) = branco
+
+
+2. Hexadecimal
+
+0123456789ABCDEF
+
+#_ _ _ _ _ _
+
+vermelho, verde e azul
+
+0 = ausência
+F= máximo
+
+#000000 = preto
+
+#FFFFFF = branco
+
+#FF0000 = vermelho
+
+
+3. Cores 
+
+red
+blue
+yellow
+black
+...
